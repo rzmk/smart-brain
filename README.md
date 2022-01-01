@@ -9,6 +9,8 @@
 
 ## Details
 
+https://user-images.githubusercontent.com/30333942/147852975-57df2f75-2e4b-497e-8200-447df9209df4.mp4
+
 The frontend repo of a full stack web application that enables logged-in users to upload images to view detected faces using a face recognition AI model using Clarifai's REST API.
 
 Backend: [https://github.com/rzmk/smart-brain-api](https://github.com/rzmk/smart-brain-api)
