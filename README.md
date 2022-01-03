@@ -18,8 +18,8 @@ Backend: [https://github.com/rzmk/smart-brain-api](https://github.com/rzmk/smart
 ## Features
 
 - Login and registration system.
-- Upload images to view detected faces.
-- Stores user login information in a database and total number of images uploaded by each user.
+- Upload image URLs to view detected faces.
+- Stores user login information in a database and total number of image URLs uploaded by each user.
 
 ## Stack
 
